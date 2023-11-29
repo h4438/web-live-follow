@@ -1,0 +1,2 @@
+unidecode
+ultimate-sitemap-parser
